@@ -11,3 +11,7 @@ This Tableau dashboard analyzes employee attrition using various dimensions like
 - Demographic Insights
 - Satisfaction Scores by Survey
 - Job Role Analysis
+
+---
+
+> Designed and developed for practice and data visualization exploration.
